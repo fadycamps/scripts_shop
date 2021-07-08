@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Modernized Mods With Complete Control.",
+    "subTitle": "Our scripts have the best most modern mods that will make your gaming experience so much easier!",
+    "image": "/images/misc/home-tv.png",
+    "alt": "Modern Mods",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Easily Adjust Your Mods.",
+    "subTitle": "You can easily change the mods to your own likings using the LED screen on the ZEN and the manuals on the Max & Titan.",
+    "image": "/images/misc/home-mobile.png",
+    "alt": "LED Screen",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "Active Community.",
+    "subTitle": "You can join our discord community to get the best of the best of your gameplay, our customers love to help each other!",
+    "image": "/images/misc/home-imac.png",
+    "alt": "Active Community",
+    "direction": "row"
+  }
+]

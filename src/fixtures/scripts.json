@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Call Of Duty Warzone",
+    "description": "Polar Aim assist, Sticky Aim assist, Smart aim assist, Dynamic Rapid fire, Easy Revive, Easy plating, Drop Shot, Jumpshot, Auto ping, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Strafe, Auto Run, Easy Slide, Burst Fire And much more!",
+    "maturity": "18",
+    "slug": "cod-wz"
+  },
+  {
+    "id": 2,
+    "title": "Call Of Duty Cold War",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Jumpshot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "cod-coldwar"
+  },
+  {
+    "id": 3,
+    "title": "Call Of Duty Modern Warfare",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Jumpshot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "cod-mw"
+  },
+  {
+    "id": 4,
+    "title": "COD WW2",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Jumpshot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "cod-ww2"
+  },
+  {
+    "id": 5,
+    "title": "Call Of Duty Black Ops 4",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Jumpshot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "cod-bo4"
+  },
+  {
+    "id": 6,
+    "title": "Apex Legends",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Jumpshot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "apex-legends"
+  },
+  {
+    "id": 7,
+    "title": "FIFA",
+    "description": "Auto Snipe, Auto Play Squad Battles, FUT player searching and more!",
+    "maturity": "18",
+    "slug": "fifa"
+  },
+  {
+    "id": 8,
+    "title": "Fortnite",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Jumpshot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "fortnite"
+  },
+  {
+    "id": 9,
+    "title": "H1Z1",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Jumpshot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "h1z1"
+  },
+  {
+    "id": 10,
+    "title": "PUBG",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Jumpshot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "pubg"
+  },
+  {
+    "id": 11,
+    "title": "Rainbow Six Siege",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist (Aim Assist only for Terrorist Hunt mode), Dynamic Rapid fire, Drop Shot, Jump Shot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "r6s"
+  },
+  {
+    "id": 12,
+    "title": "Red Dead Redemption 2",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Auto Dead Eye, Auto Dead Eye Stop, Deadshot, Dynamic Rapid fire, Dive Shot, Anti recoil, Aim Stability and Correction, Smart Sens, Hold Breath, Hair Triggers, Quickscope, Auto Reload, Auto Run, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "rdr2"
+  },
+  {
+    "id": 13,
+    "title": "Rogue Company",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Anti recoil, Aim Stability and Correction, Smart Sens, Anti Damage Wobble, Hair Triggers, Quickscope, Auto Reload, Auto Run, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "roco"
+  },
+  {
+    "id": 14,
+    "title": "The Last Of Us Multiplayer",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Drop Shot, Anti recoil, Aim Stability and Correction, Smart Sens, Hair Triggers, Quickscope, Auto Run, Headshot Prediction, Auto Mark, Auto Combo And much more!",
+    "maturity": "18",
+    "slug": "tlou"
+  },
+  {
+    "id": 15,
+    "title": "Uncharted 4",
+    "description": "Polar Aim Assist, Sticky Aim Assist, Smart Aim Assist, Dynamic Rapid fire, Anti recoil, Aim Stability and Correction, Smart Sens, Auto Mark, Hair Triggers, Quickscope, Auto Reload, Burst Fire, Headshot Prediction And much more!",
+    "maturity": "18",
+    "slug": "uc4"
+  },
+  {
+    "id": 16,
+    "title": "Leveling Up Script",
+    "description": "Works in any MP game, this script will auto join matches for you and move to not get kicked out, easy XP!!",
+    "maturity": "18",
+    "slug": "xp-bot"
+  }
+]
