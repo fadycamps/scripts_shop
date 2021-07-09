@@ -16,10 +16,11 @@ export function FooterContainer() {
         </Footer.Column>
 
         <Footer.Column>
-          <Footer.Link href="https://shop.cronusmax.com/zen.html" target="_blank">Buy CronusZen</Footer.Link>
-          <Footer.Link href="https://shop.cronusmax.com/collective-minds-ps4-strikepack-eliminator-mod-pack.html" target="_blank">Buy StrikePack</Footer.Link>
-          <Footer.Link href="https://www.amazon.com/XIM-APEX-Keyboard-Mouse-Adapter/dp/B079SS1CCR" target="_blank">Buy Xim Apex</Footer.Link>
-          <Footer.Link href="https://www.consoletuner.com/products/titan-two/" target="_blank">Buy Titan 2</Footer.Link>
+          <Footer.Link href="https://amzn.to/3hRuvpX" target="_blank">Buy CronusZen</Footer.Link>
+          <Footer.Link href="https://amzn.to/3huyaen" target="_blank">Buy Titan 2</Footer.Link>
+          <Footer.Link href="https://amzn.to/3AIvWzH" target="_blank">Buy StrikePack</Footer.Link>
+          <Footer.Link href="https://amzn.to/3e2NInp" target="_blank">Buy Xim Apex</Footer.Link>
+          
         </Footer.Column>
 
         <Footer.Column>
